@@ -13,7 +13,7 @@ Speeding up research or mobilization by 12 hours takes 1,250 gold, so gold is st
 ### Spending Gold
 
 {% hint style="warning" %}
-There is no going back or any warning before your gold gets spent! If you click the button, your gold is gone!
+There is no going back or any warning before your gold gets spent! If you click the button, your gold is gone! Please think about whether it is necessary or you might regret it.
 {% endhint %}
 
 You should spend gold in emergencies.&#x20;
