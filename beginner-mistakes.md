@@ -24,6 +24,10 @@ This is a common mistake, as many beginners want to focus on destroying the coun
 
 <summary>Not defending the homeland</summary>
 
+This is a common mistake, even for some advanced players, and this is a very serious issue. When players are attacking nations, they typically send all their units in, which prompts more skilled players to take the chance of invading you, which may cause you to lose many of your homeland cities and possibly lose the game.
+
+One thing you can do is always allocate at least one infantry on all your cities, and typically at least 2 to 3 for your capital and also more important cities (such as mobilizing ships, tanks, and support). This can ensure you have enough time to defend if an enemy invades.
+
 
 
 </details>
@@ -40,7 +44,7 @@ This is a common mistake, as many beginners want to focus on destroying the coun
 
 <summary>Not leveling up your units through research</summary>
 
-
+This is a common mistake. Beginners tend to use up all their resources mobilizing or researching other new things. Although this is important, leveling up your troops is still essential. A common rule could be if you have more than 5 units of that type of troop, you should upgrade it. (with the exception of infantry, which could be higher but also essential to upgrade) This should be carried on in the game as you will learn that the leveled up troops have much more capabilities than the level one troops.
 
 </details>
 
@@ -48,7 +52,7 @@ This is a common mistake, as many beginners want to focus on destroying the coun
 
 <summary>Leaving cities with low morale defenseless, causing insurgencies</summary>
 
-
+This is a common beginner mistake. When conquering cities (especially occupied ones), beginners tend to do a huge waypoint, including taking many cities. However, they do not leave any troops in the city, which causes insurgencies to occur. One thing you should do is after conquering the city, leave one infantry in it so that insurgencies cannot take over the city, and also the chances of them go down.
 
 </details>
 
