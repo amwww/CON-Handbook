@@ -97,6 +97,10 @@ When an army gets excessively large, it begins to suffer strength and movement s
 Note that transport convoys or planes are counted as sea and air types, respectively.
 {% endhint %}
 
+{% hint style="info" %}
+Planes and helicopters on the ground are considered a land type.
+{% endhint %}
+
 The multiplier for its strength stat is as follows:
 
 $$
